@@ -251,7 +251,7 @@ PlayerSettings:
     m_APIs: 0b000000
     m_Automatic: 0
   - m_BuildTarget: MacStandaloneSupport
-    m_APIs: 1100000010000000
+    m_APIs: 1000000011000000
     m_Automatic: 0
   m_BuildTargetVRSettings: []
   openGLRequireES31: 0
@@ -531,6 +531,7 @@ PlayerSettings:
     16: CROSS_PLATFORM_INPUT;MOBILE_INPUT
   platformArchitecture:
     iOS: 0
+    tvOS: 1
   scriptingBackend:
     Android: 0
     Metro: 2
@@ -538,8 +539,10 @@ PlayerSettings:
     WP8: 2
     WebGL: 1
     iOS: 0
+    tvOS: 1
   incrementalIl2cppBuild:
     iOS: 0
+    tvOS: 0
   additionalIl2CppArgs: 
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
