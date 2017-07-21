@@ -6,5 +6,5 @@ AnimatorOverrideController:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: My dog override
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5a6742d7cf7fe5e448a97d89fe67f921, type: 2}
   m_Clips: []
