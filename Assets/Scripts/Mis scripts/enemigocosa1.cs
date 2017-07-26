@@ -17,6 +17,6 @@ public class enemigocosa1 : MonoBehaviour {
 	void Update () {
         agente.SetDestination(destino.position);
 
-		
+		//YAY divertido
 	}
 }
