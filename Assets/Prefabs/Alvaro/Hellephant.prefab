@@ -120,8 +120,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Spawner: {fileID: 0}
-  maxHealth: 100
-  scoreValue: 10
+  maxHealth: 200
+  scoreValue: 50
   sinkSpeed: 2.5
   deathEffectTime: 2
   deathClip: {fileID: 0}
@@ -145,8 +145,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SlimeDebuff: {fileID: 0}
-  timeBetweenAttacks: 0.5
-  attackDamage: 10
+  timeBetweenAttacks: 2
+  attackDamage: 35
   animator: {fileID: 95146383721886336}
 --- !u!136 &136545163613566490
 CapsuleCollider:
